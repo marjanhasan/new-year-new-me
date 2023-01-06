@@ -95,3 +95,33 @@ nav ul li a {
 
 /* header section end */
 
+main{
+    width: 80%;
+    margin: auto;
+    padding: 10% 0;
+}
+
+.first-section{
+    display: flex;
+}
+
+.story-image img{
+    width: 85%;
+    padding-left: 50px;
+}
+
+.story{
+    padding-top: 20%;
+}
+
+.story h2{
+    font-size: 40px;
+}
+
+.story p{
+    padding: 5px 0;
+}
+
+.story p span{
+    color: #16D887;
+}
