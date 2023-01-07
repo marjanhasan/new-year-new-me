@@ -126,8 +126,9 @@ main section{
     font-size: 40px;
 }
 
-.story p span{
+.story p i{
     color: #16D887;
+    padding-right: 5px;
 }
 
 .second-section h2{
